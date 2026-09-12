@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Laptos",
+    "slug": "laptos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "laptos",
+    "plugins": ["expo-router"],
+    "android": {
+      "package": "com.laptos.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B1220"
+      }
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
